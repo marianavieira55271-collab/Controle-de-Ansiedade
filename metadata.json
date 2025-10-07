@@ -1,0 +1,8 @@
+{
+  "name": "Controle de Ansiedade",
+  "description": "Um aplicativo para ajudar a identificar e gerenciar sinais de ansiedade durante eventos públicos ou apresentações. Oferece ferramentas como medição de frequência cardíaca (via câmera), análise de voz, exercícios de respiração guiada e mensagens motivacionais para ajudar os usuários a encontrarem a calma.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
